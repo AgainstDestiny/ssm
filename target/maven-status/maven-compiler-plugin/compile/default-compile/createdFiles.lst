@@ -1,0 +1,17 @@
+cn\itaxu\controller\ProjectExceptionAdvice.class
+cn\itaxu\exception\SystemException.class
+cn\itaxu\dao\BrandDao.class
+cn\itaxu\domain\Brand.class
+cn\itaxu\domain\PageBean.class
+cn\itaxu\controller\Result.class
+cn\itaxu\config\SpringMvcConfig.class
+cn\itaxu\config\SpringMvcSupport.class
+cn\itaxu\service\BrandService.class
+cn\itaxu\config\ServletConfig.class
+cn\itaxu\service\impl\BrandServiceImpl.class
+cn\itaxu\config\SpringConfig.class
+cn\itaxu\controller\Code.class
+cn\itaxu\exception\BusinessException.class
+cn\itaxu\controller\BrandController.class
+cn\itaxu\config\JdbcConfig.class
+cn\itaxu\config\MyBatisConfig.class
